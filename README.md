@@ -4,14 +4,14 @@ Maker Media GmbH
 
 ***
 
-# Zeitraffer-Kamera
+# ESP32-CAM-Hacks
 
 ## Ein Make-Projekt mit der ESP32-CAM
 
-Um erste Erfahrungen mit der Programmierung der Kamera und des SD-Karten-Moduls zu sammeln, ist eine Zeitraffer-Kamera ein optimales Projekt. Sie benötigt keine zusätzliche Hardware und nutzt fast alle Funktionen der entsprechenden ESP32-APIs.
+Bei der Arbeit mit der ESP32-CAM für das Make Special zu diesem Board haben wir eine Menge herausgefunden, was hoffentlich bei eigenen Projekten und Experimenten mit diesem Mikrocontroller-Board hilft. Hier der Code zur Handvoll Tipps, Tricks und Hacks für spezielle Fälle im Heft. 
 
 ![Aufmacherbild aus dem Heft](./doc/esp32c.jpg)
 
-Hier gibt es den Code zum Projekt im Ordner _src_.
+Hier gibt es den Code im Ordner _src_.
 
-Der vollständige Artikel zum Projekt steht im **Make-Special ESP32-CAM 2023** ab Seite 14.
+Der vollständige Artikel zu den Hacks steht im **Make-Special ESP32-CAM 2023** ab Seite 60.
